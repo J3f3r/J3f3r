@@ -1,7 +1,7 @@
 ### Olá meu nome é Jeferson, apaixonado por tecnologia e estudante de Análise e desenvolvimento de Sistemas. Atualmente venho buscando me aprofundar nas linguagens que escolhi para me tornar um Fulls Stack. Este README conta um pouco das habilidades que estou aprendendo e até o momento não possuo nenhum projeto autoral, apenas exercícios acadêmicos aprendidos na faculdade e nos Bootcamps. Deixarei descrito quando for 100% autoral 🙋‍♂️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-martins-48b9b690/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jsmartins959@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](16997387108)
 
 ### Tecnologias estudadas até o momento:
