@@ -1,4 +1,4 @@
-### Olá meu nome é Jeferson, apaixonado por tecnologia e estudante de Tecnologia da Infromação, formado em Análise e desenvolvimento de Sistemas e Administração de Empresas. Atualmente venho buscando me aprofundar nas linguagens que escolhi para me tornar um Backend. Este README conta um pouco das habilidades que estou aprendendo e até o momento não possuo nenhum projeto autoral, apenas exercícios acadêmicos aprendidos na faculdade e nos Bootcamps. Deixarei descrito quando for 100% autoral 🙋‍♂️
+### Olá meu nome é Jeferson, apaixonado por tecnologia e estudante de Tecnologia da Infromação, formado em Análise e desenvolvimento de Sistemas e Administração de Empresas. Atualmente venho buscando me aprofundar nas linguagens que escolhi para me tornar um Backend e DevOps. Este README conta um pouco das habilidades que estou aprendendo e possuo projetos, exercícios acadêmicos e labs de Bootcamps.🙋‍♂️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-martins-48b9b690/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
@@ -18,7 +18,7 @@
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whitee">
-   
+    <img align="center" alt="react" src="[https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whitee](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)">   
 </div>
 
 <br>
