@@ -1,4 +1,4 @@
-### Olá meu nome é Jeferson, apaixonado por tecnologia e estudante de Tecnologia da Infromação, formado em Análise e desenvolvimento de Sistemas e Administração de Empresas. Atualmente venho buscando me aprofundar nas linguagens que escolhi para me tornar um Backend e DevOps. Este README conta um pouco das habilidades que estou aprendendo e possuo projetos, exercícios acadêmicos e labs de Bootcamps.🙋‍♂️
+### Olá meu nome é Jeferson, estudante de Tecnologia da Infromação, formado em Análise e desenvolvimento de Sistemas e Administração de Empresas. Atualmente venho buscando me aprofundar nas linguagens que escolhi para me tornar um Backend e DevOps. Este README conta um pouco das habilidades que estou aprendendo e possuo projetos com melhorias autorais, exercícios acadêmicos que inclui códigos autorais e labs de Bootcamps.🙋‍♂️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-martins-48b9b690/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
