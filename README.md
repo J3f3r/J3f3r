@@ -1,4 +1,24 @@
-### Olá meu nome é Jeferson, entusiasta e estudante de Tecnologia da Infromação, formado em Análise e desenvolvimento de Sistemas e Administração de Empresas. Atualmente venho buscando me aprofundar nas linguagens que escolhi para me tornar um Backend. Este README conta um pouco das habilidades que estou aprendendo e mostra projetos com melhorias autorais, exercícios acadêmicos que inclui códigos autorais e labs de Bootcamps. Como iniciante ainda opto por um maior volume de projetinhos para demonstrar aquilo que venho estudando mas com o amadurecimento de meus conhecimentos, irei fazer as trocar por projetos autorais de maior importância.🙋‍♂️
+# 👨‍💻 Jeferson de Souza Martins | Desenvolvedor Backend Jr.
+
+Estudante de Tecnologia da Informação, em evolução na carreira de desenvolvimento **Backend C#/.NET Core** e **Java Spring Boot**. Certificado **Microsoft Azure (AZ-900)**. Meu objetivo é aplicar uma visão madura do Ciclo de Vida de Desenvolvimento de Software (SDLC) na construção de soluções escaláveis e em Cloud.
+
+### ⭐ Principais Stacks de Foco:
+- **Backend:** C# (.NET Core), Java (Spring Boot)
+- **Cloud/DevOps:** Azure (AZ-900, AZ-204, Azure Functions, DevOps), Docker, CI/CD
+- **Banco de Dados:** SQL Server, PostgreSQL, H2
+
+---
+
+### 🚀 Portfólio em Destaque (Projetos Mais Relevantes)
+
+Demonstração de proficiência em arquitetura modular, Cloud e processos de desenvolvimento:
+
+| Projeto | Tecnologia Principal | Foco Técnico |
+| :--- | :--- | :--- |
+| **DSList** | Java / Spring Boot | Modelagem de dados e arquitetura em camadas (Services/Repositories). |
+| **APItempo** | Azure Functions / C# | API em arquitetura **Serverless** com Pipeline **CI/CD (Azure DevOps)** e uso de **Docker**. |
+| **AllBooks** | REST API / GitFlow | Simulação de ambiente colaborativo com aplicação de **GitFlow** e **Code Review** em PRs. |
+| **Análise IA** | C# / Azure Cognitive | Integração com serviços gerenciados de **Cloud (Azure AI)** e autenticação segura via SDKs. |
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-martins-48b9b690/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
