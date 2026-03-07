@@ -15,7 +15,7 @@ Demonstração de proficiência em arquitetura modular, Cloud e processos de des
 
 | Projeto | Tecnologia Principal | Foco Técnico |
 | :--- | :--- | :--- |
-| **DSList** | Java / Spring Boot | Modelagem de dados e arquitetura em camadas (Services/Repositories). |
+| **Jecommerce** | Java / Spring Boot | Modelagem de dados e arquitetura em camadas (Services/Repositories). |
 | **APItempo** | Azure Functions / C# | API em arquitetura **Serverless** com Pipeline **CI/CD (Azure DevOps)** e uso de **Docker**. |
 | **AllBooks** | REST API / GitFlow | Simulação de ambiente colaborativo com aplicação de **GitFlow** e **Code Review** em PRs. |
 | **Análise IA** | C# / Azure Cognitive | Integração com serviços gerenciados de **Cloud (Azure AI)** e autenticação segura via SDKs. |
