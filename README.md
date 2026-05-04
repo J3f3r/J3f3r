@@ -1,4 +1,4 @@
-# 👨‍💻 Jeferson de Souza Martins | Desenvolvedor Backend (estagiário/Trainee).
+# 👨‍💻 Jeferson de Souza Martins | Desenvolvedor Backend | Java & .NET.
 
 Estudante de Tecnologia da Informação e formado em Análise e desenvolvimento de Sistemas, em evolução na carreira de desenvolvimento **Backend C#/.NET Core** e **Java Spring Boot**. Certificado **Microsoft Azure (AZ-900)**. Meu objetivo é aplicar uma visão madura do Ciclo de Vida de Desenvolvimento de Software (SDLC) na construção de soluções escaláveis e em Cloud.
 
