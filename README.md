@@ -1,50 +1,63 @@
-# 👨‍💻 Jeferson de Souza Martins | Desenvolvedor Backend | Java & .NET.
+# 👨‍💻 Jeferson Martins | Desenvolvedor Backend Java Júnior
 
-Estudante de Tecnologia da Informação e formado em Análise e desenvolvimento de Sistemas, em evolução na carreira de desenvolvimento **Backend C#/.NET Core** e **Java Spring Boot**. Certificado **Microsoft Azure (AZ-900)**. Meu objetivo é aplicar uma visão madura do Ciclo de Vida de Desenvolvimento de Software (SDLC) na construção de soluções escaláveis e em Cloud.
+Desenvolvedor Backend Java Júnior em busca da primeira oportunidade (CLT, estágio ou trainee). Desenvolvo APIs REST com **Java 21 e Spring Boot 3**, com autenticação **JWT**, persistência em **PostgreSQL**, documentação **OpenAPI** e testes automatizados com cobertura medida pelo **JaCoCo**.
 
-### ⭐ Principais Stacks de Foco:
-- **Backend:** C# (.NET Core), Java (Spring Boot)
-- **Cloud/DevOps:** Azure (AZ-900, AZ-204, Azure Functions, DevOps), Docker, CI/CD
-- **Banco de Dados:** SQL Server, PostgreSQL, H2
+Formado em Administração de Empresas e em Análise e Desenvolvimento de Sistemas (UNIP), e cursando Tecnologia da Informação (Univesp). Certificado **Microsoft Azure AI Fundamentals (AI-900)**.
+
+Aprendo por projetos práticos (trilhas DevSuperior), replico cada conceito em mais de um projeto e uso IA como apoio, validando o resultado com testes e leitura do código.
 
 ---
 
-### 🚀 Portfólio em Destaque (Projetos Mais Relevantes)
+## 🎯 Foco atual
 
-Demonstração de proficiência em arquitetura modular, Cloud e processos de desenvolvimento:
+| Área | Tecnologias |
+|---|---|
+| **Backend** | Java 21, Spring Boot 3, Spring Data JPA, Spring Security, Spring HATEOAS |
+| **API e segurança** | APIs REST, JWT/OAuth2, RBAC, Bean Validation, OpenAPI/Swagger |
+| **Dados** | PostgreSQL, SQL, JPA/Hibernate, H2 |
+| **Testes** | JUnit 5, Mockito, Rest Assured, JaCoCo |
+| **Ferramentas e nuvem** | Docker e Docker Compose, Git e GitFlow, Maven, Amazon S3 |
+| **Complementar** | C#/.NET, Azure Functions, Azure DevOps, SQL Server |
 
-| Projeto | Tecnologia Principal | Foco Técnico |
-| :--- | :--- | :--- |
-| **Jecommerce** | Java / Spring Boot | Modelagem de dados e arquitetura em camadas (Services/Repositories). |
-| **APItempo** | Azure Functions / C# | API em arquitetura **Serverless** com Pipeline **CI/CD (Azure DevOps)** e uso de **Docker**. |
-| **AllBooks** | REST API / GitFlow | Simulação de ambiente colaborativo com aplicação de **GitFlow** e **Code Review** em PRs. |
-| **Análise IA** | C# / Azure Cognitive | Integração com serviços gerenciados de **Cloud (Azure AI)** e autenticação segura via SDKs. |
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-martins-48b9b690/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/?lang=pt_BR)
+---
 
-### Tecnologias estudadas até o momento:
+## 🚀 Projetos em destaque
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="markdow" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-    <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=whitee">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">   
-</div>
+| Projeto | Stack | O que demonstra |
+|---|---|---|
+| [**JeCatalog**](https://github.com/J3f3r/jecatalog) | Java 21, Spring Boot 3, JWT, PostgreSQL, AWS S3 | Autenticação JWT com RBAC, recuperação de senha por e-mail, upload de imagens para o Amazon S3, mitigação do problema N+1 e documentação OpenAPI |
+| [**JeCommerce**](https://github.com/J3f3r/Jecommerce) | Spring Boot 3.4, OAuth2/JWT, PostgreSQL, Docker Compose | Modelagem de domínio (N:N e chave composta), arquitetura em camadas, Bean Validation com resposta 422 e banco em container |
+| [**DSMovie**](https://github.com/J3f3r/desafio-dsmovie-jacoco) | JUnit, Mockito, JaCoCo, Spring HATEOAS | 48 testes, 100% de cobertura no JaCoCo e versionamento de API por URI e Vendor Media Type |
+| [**jecommerce-restassured**](https://github.com/J3f3r/jecommerce-restassured) | Rest Assured, Java | Testes de API do projeto JeCommerce |
+| [**dsmovie-restassured**](https://github.com/J3f3r/dsmovie-restassured) | Rest Assured, Java | Testes de API do projeto DSMovie |
+| [**APItempo**](https://github.com/J3f3r/APItempo) | C#, Azure Functions, Docker | API serverless com deploy no Azure por Azure DevOps Pipelines |
 
-<br>
+Outros repositórios em C#/.NET e Azure: [AllBooks](https://github.com/J3f3r/allbooks) (GitFlow e revisão de código em Pull Requests) e [AnaliseSentimentosIA](https://github.com/J3f3r/AnaliseSentimentosIA) (Azure Cognitive Services).
 
-![J3f3r GitHub stats](https://github-readme-stats.vercel.app/api?username=J3f3r&show_icons=true&theme=radical)
+---
 
+## 📫 Contato
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3f3r&hide_progress=true)
+<p>
+  <a href="https://www.linkedin.com/in/jeferson-martins-48b9b690"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jsmartins959@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
+
+Disponível para trabalho remoto, híbrido ou presencial (Araraquara, São Carlos, Ribeirão Preto e São Paulo). Pessoa com deficiência (PCD).
+
+<!-- Observação: o botão do WhatsApp foi retirado, porque um número de telefone público no GitHub costuma receber mensagens
+     automáticas de spam. Se quiser mantê-lo, acrescente de volta um link wa.me com o seu número. -->
